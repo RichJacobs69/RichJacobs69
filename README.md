@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rich 👋
 
-<!--
-**RichJacobs69/RichJacobs69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Product Manager specializing in data platforms, embedded analytics, 
+and AI integration. I build products that turn complex data into business value.
 
-Here are some ideas to get you started:
+## Current Focus
+🤖 Building AI-powered products to sharpen my LLM and pipeline integration skills
+📊 Exploring RAG architectures and agentic workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+🎯 Hiring Analytics: Helping Candidates and Recruiters with hiring insights and job signposting [Hiring Analytics](https://www.richjacobs.me/projects/hiring-market)
+
+## Tech I'm Working With
+- AI/LLM: OpenAI, Claude, LangChain
+- Data Stack: Snowflake, dbt, Power BI
+- Building: Next.js, Python, FastAPI
+
+📫 Reach me: rich@richjacobs.me | [richjacobs.me](https://richjacobs.me)
